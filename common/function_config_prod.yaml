@@ -2,4 +2,11 @@
 # configurations files in specific function folder.
 tenant_id: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
 cdf_cluster: westeurope-1
-cdf_project: cdf-bootcamp-<n>-prod
+
+# test
+# cdf_project: cdf-bootcamp-29-test
+# data_set_id: 5410331813570545
+
+# prod
+cdf_project: cdf-bootcamp-29-prod
+data_set_id: 5967387887857532
